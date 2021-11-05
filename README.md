@@ -19,5 +19,5 @@ _________________
 #### Get In Touch
 
 
-<a href="https://www.twitter.com/janyris"><img src="https://img.shields.io/badge/-Twitter-000?&logo=Twitter"/></a> <a href="https://www.polywork.com/janyris"><img src="https://img.shields.io/badge/-Polywork-000?&logo=Polywork"/></a> <a href="https://www.linkedin.com/in/janyriscotto/"><img src="https://img.shields.io/badge/-Linkedin-000?&logo=linkedin"/></a> 
+<a href="https://www.twitter.com/janyris"><img src="https://img.shields.io/badge/-Twitter-000?&logo=Twitter"/></a> <a href="https://www.polywork.com/janyris"><img src="https://img.shields.io/badge/-Polywork-000?&logo=Polywork"/></a> <a href="https://www.linkedin.com/in/janyris/"><img src="https://img.shields.io/badge/-Linkedin-000?&logo=linkedin"/></a> 
 
