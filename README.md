@@ -1,6 +1,6 @@
 ### Hey, i'm Janyris :wave:
 
-#### &nbsp; **I'm a Designer and Developer.**
+#### &nbsp; **Designer and Developer.**
 #### &nbsp; **Currenty learning Solidity.**
 #### &nbsp; **Looking to collaborate on Web3 projects.**
 
