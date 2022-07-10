@@ -1,5 +1,3 @@
-### Hey, i'm Janyris.
-
 _________________
 
 #### Frequently Used Languages
