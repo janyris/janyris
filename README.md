@@ -1,7 +1,3 @@
-### Hey, i'm Janyris.
-#### &nbsp; **Designer and Developer.**
-#### &nbsp; **Looking to collaborate on Web3 projects.**
-
 
 _________________
 
