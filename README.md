@@ -1,4 +1,3 @@
-_________________
 
 #### Frequently Used Languages
 
