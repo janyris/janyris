@@ -17,7 +17,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-CC0000?style=flat-square&logo=comptia&logoColor=white)
+![Security+ (in progress)](https://img.shields.io/badge/-CompTIA%20Security%2B%20(in%20progress)-CC0000?style=flat-square&logo=comptia&logoColor=white)
 
 ---
 
