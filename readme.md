@@ -19,12 +19,6 @@
 
 ---
 
-#### Most Used Languages
-
-[![Top Langs](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=janyris&layout=compact&theme=dark&hide_border=true)](https://github.com/janyris)
-
----
-
 #### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janyris/)
