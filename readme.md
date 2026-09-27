@@ -1,3 +1,6 @@
+### IT professional moving into SOC / blue team, focused on cybersecurity & AI
+
+---
 
 #### Currently
 
