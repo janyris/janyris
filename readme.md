@@ -4,7 +4,7 @@
 - Cybersecurity training - AI Tools, Networking & Security
 - Studying for **CompTIA Security+** and **Splunk Core User** (expected Oct 2026)
 - Building hands-on SOC / blue team lab projects
-- Long-term focus: cloud & identity security
+- Long-term focus: AI & cybersecurity
 
 ---
 
