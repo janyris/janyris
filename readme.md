@@ -18,6 +18,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Security+ (in progress)](https://img.shields.io/badge/-CompTIA%20Security%2B%20(in%20progress)-CC0000?style=flat-square&logo=comptia&logoColor=white)
+![Splunk Core User (in progress)](https://img.shields.io/badge/-Splunk%20Core%20User%20(in%20progress)-000000?style=flat-square&logo=splunk&logoColor=white)
 
 ---
 
