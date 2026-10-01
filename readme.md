@@ -21,7 +21,6 @@ training (AI tools, networking, security operations) and building hands-on blue 
 
 <img src="https://img.shields.io/badge/Splunk-15171A?style=for-the-badge&logo=splunk&logoColor=F59E42" alt="Splunk">&nbsp;
 <img src="https://img.shields.io/badge/Wireshark-15171A?style=for-the-badge&logo=wireshark&logoColor=F59E42" alt="Wireshark">&nbsp;
-<img src="https://img.shields.io/badge/Linux-15171A?style=for-the-badge&logo=linux&logoColor=F59E42" alt="Linux">&nbsp;
-<img src="https://img.shields.io/badge/Claude-15171A?style=for-the-badge&logo=claude&logoColor=F59E42" alt="Claude">
+<img src="https://img.shields.io/badge/Linux-15171A?style=for-the-badge&logo=linux&logoColor=F59E42" alt="Linux">
 
 </div>
