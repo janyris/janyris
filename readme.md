@@ -11,7 +11,7 @@
 
 <br>
 
-Hi, I'm **Janyris**, an IT professional in New York moving into **SOC / blue team** work,
+Hi, I'm **Janyris** (*jah-NEH-ris*), an IT professional in New York moving into **SOC / blue team** work,
 with a long-term focus on where **cybersecurity and AI** meet. Right now I'm in cybersecurity
 training (AI tools, networking, security operations) and building hands-on blue team labs.
 
