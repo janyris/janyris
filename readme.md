@@ -24,8 +24,4 @@ training (AI tools, networking, security operations) and building hands-on blue 
 <img src="https://img.shields.io/badge/Linux-15171A?style=for-the-badge&logo=linux&logoColor=F59E42" alt="Linux">&nbsp;
 <img src="https://img.shields.io/badge/Claude-15171A?style=for-the-badge&logo=claude&logoColor=F59E42" alt="Claude">
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/janyris/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 </div>
