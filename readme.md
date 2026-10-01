@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Search index=profile user=janyris, 5 events: IT professional moving into SOC / blue team. Focus: cybersecurity, security operations, AI. CompTIA Security+ and Splunk Core User in progress, Oct 2026. New York, NY.">
+  <img src="assets/banner-dark.svg" width="100%" alt="Search index=profile user=janyris, 5 events: IT professional moving into SOC / blue team. Focus: cybersecurity, security operations, AI. CompTIA Security+ certified. Splunk Core User in progress, Oct 2026. New York, NY.">
 </picture>
 
 </div>
