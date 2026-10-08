@@ -30,7 +30,7 @@ EVENTS = [
     ("whoami", [("role", '"IT professional"', "fg"), ("moving_to", '"SOC / blue team"', "fg")]),
     ("focus", [("area", '"cybersecurity"', "fg"), ("area", '"security operations"', "fg"), ("area", '"AI"', "fg")]),
     ("certs", [("name", '"CompTIA Security+"', "fg"), ("status", "certified", "accent")]),
-    ("certs", [("name", '"Splunk Core User"', "fg"), ("status", "in_progress", "accent"), ("eta", "2026-10", "fg")]),
+    ("certs", [("name", '"Splunk Core User"', "fg"), ("status", "certified", "accent")]),
     ("geo", [("city", '"New York"', "fg"), ("state", "NY", "fg")]),
 ]
 
@@ -66,7 +66,7 @@ def banner(c):
          '<title id="t">Search: index=profile user=janyris</title>'
          '<desc id="d">A SIEM-style search returning five events: IT professional moving to SOC / blue team; '
          'focus on cybersecurity, security operations and AI; CompTIA Security+ certified; Splunk Core User '
-         'in progress, October 2026; New York, NY.</desc>',
+         'certified; New York, NY.</desc>',
          f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="10" fill="{c["surface"]}" stroke="{c["line"]}"/>']
 
     # search bar, time range, run button
