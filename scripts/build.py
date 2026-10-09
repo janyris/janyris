@@ -27,10 +27,10 @@ QUERY = [("index=profile user=janyris ", "fg"), ("| fields", "accent"), (" role,
 
 # Result rows: (source, [(field, value, colour-key for the value), ...])
 EVENTS = [
-    ("whoami", [("role", '"IT professional"', "fg"), ("moving_to", '"SOC / blue team"', "fg")]),
-    ("focus", [("area", '"cybersecurity"', "fg"), ("area", '"security operations"', "fg"), ("area", '"AI"', "fg")]),
+    ("whoami", [("role", '"SOC analyst"', "fg"), ("background", '"hands-on IT"', "fg")]),
+    ("focus", [("area", '"detection"', "fg"), ("area", '"investigation"', "fg"), ("long_term", '"AI security"', "fg")]),
     ("certs", [("name", '"CompTIA Security+"', "fg"), ("status", "certified", "accent")]),
-    ("certs", [("name", '"Splunk Core User"', "fg"), ("status", "certified", "accent")]),
+    ("certs", [("name", '"Splunk Core Certified User"', "fg"), ("status", "certified", "accent")]),
     ("geo", [("city", '"New York"', "fg"), ("state", "NY", "fg")]),
 ]
 
@@ -64,9 +64,9 @@ def banner(c):
     s = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
          f'role="img" aria-labelledby="t d" font-family="{MONO}">'
          '<title id="t">Search: index=profile user=janyris</title>'
-         '<desc id="d">A SIEM-style search returning five events: IT professional moving to SOC / blue team; '
-         'focus on cybersecurity, security operations and AI; CompTIA Security+ certified; Splunk Core User '
-         'certified; New York, NY.</desc>',
+         '<desc id="d">A SIEM-style search returning five events: SOC analyst with a hands-on IT background; '
+         'focus on detection and investigation, long term AI security; CompTIA Security+ certified; '
+         'Splunk Core Certified User; New York, NY.</desc>',
          f'<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="10" fill="{c["surface"]}" stroke="{c["line"]}"/>']
 
     # search bar, time range, run button

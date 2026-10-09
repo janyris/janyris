@@ -4,17 +4,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-dark.svg" width="100%" alt="Search index=profile user=janyris, 5 events: IT professional moving into SOC / blue team. Focus: cybersecurity, security operations, AI. CompTIA Security+ certified. Splunk Core User certified. New York, NY.">
+  <img src="assets/banner-dark.svg" width="100%" alt="Search index=profile user=janyris, 5 events: SOC analyst with a hands-on IT background. Focus: detection and investigation; long term, AI security. CompTIA Security+ certified. Splunk Core Certified User. New York, NY.">
 </picture>
 
 </div>
 
 <br>
 
-Hi, I'm **Janyris** (*jah-NEH-ris*), an IT professional in New York moving into **SOC / blue team** work.
-I come from hands-on support and field work: troubleshooting endpoints across macOS, iOS and Windows,
-and configuring home networks, smart locks and security cameras. Long term, I'm focused on where
-**cybersecurity and AI** meet.
+Hi, I'm **Janyris** (*jah-NEH-ris*), a **SOC analyst** in New York with a background in hands-on IT.
+CompTIA Security+ and Splunk Core Certified User. Focused on detection and investigation, and long term on **AI security**.
 
 <br>
 
