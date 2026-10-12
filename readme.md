@@ -11,7 +11,7 @@
 
 <br>
 
-Hi, I'm **Janyris** (*jah-NEH-ris*), a **SOC analyst** in New York with a background in hands-on IT.
+Hi, I'm **Janyris** (*jah-NEH-ris*), a **SOC analyst** with a background in hands-on IT.
 CompTIA Security+ and Splunk Core Certified User. Focused on detection and investigation, and long term on **AI security**.
 
 <br>
